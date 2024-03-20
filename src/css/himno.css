@@ -1,0 +1,37 @@
+h1{text-align:center; 
+    text-transform:capitalize; 
+    
+}
+h2.Estrofa_3{
+    text-align:center;
+    color:yellow
+}
+h2.Estrofa_1 {
+    text-align: center;
+    color: blue;
+
+}
+h2.Estrofa_2 {
+    text-align: center;
+    color: red;
+    
+}
+p.parrafo_estrofa3{
+    text-align: justify;
+    color:yellow
+}
+p.parrafo_estrofa1{
+    text-align: center;
+    color:blue
+}
+p.parrafo_estrofa2{
+    text-align: center;
+    color:red
+}
+Body {
+    background-color: green;
+}
+article.Estrofa_3{
+    text-align:center;
+    color:yellow
+}

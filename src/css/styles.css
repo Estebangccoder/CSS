@@ -1,4 +1,16 @@
 h1{text-align:center; 
     text-transform:capitalize; 
-    font-size: 80px
+    
+}
+
+h2.titulosec{
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p.parrafosection{
+    color:green;
+    font-style: normal;
+    font-weight: 300;
 }
