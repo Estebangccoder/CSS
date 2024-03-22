@@ -73,3 +73,35 @@ p.tres {
     border-width: 25px 10px 4px 35px;
     /* 25px top, 10px right, 4px bottom and 35px left */
 }
+
+figure img{
+    width: 600px;
+    height: 600px;
+    padding: 4px;
+}
+
+#imagen-1{
+    border: 10px  dotted red;
+    border-width: 25px 10px 4px 35px;
+}
+
+#imagen-2{
+    border: 10px dashed darkblue ;
+    border-width: 25px 10px 4px 35px;
+}
+
+#imagen-3{
+    border: 10px groove blueviolet;
+    border-width: 25px 10px 4px 35px;
+}
+
+
+#imagen-4{
+    border: 10px solid burlywood;   
+    border-width: 25px 10px 4px 35px;
+}
+
+#imagen-5{
+    border: 10px ridge black;
+    border-width: 25px 10px 4px 35px;
+}
